@@ -7,6 +7,4 @@
 
 
 
-<div align="center">
-<a href="https://discord.gg/global" title="Discord Profile"><img src="https://lanyard-profile-readme.vercel.app/api/486290308359913472/?theme=light&bg=809ecf&animated=true&hideDiscrim=true&borderRadius=30px"></a>
-</div>
+[![Discord Presence](https://lanyard.cnrad.dev/api/:486290308359913472)](https://discord.com/users/:486290308359913472)
