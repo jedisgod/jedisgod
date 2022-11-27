@@ -20,4 +20,6 @@
 <a href="https://github.com/jedisgod" target"blank_"><img src="https://img.shields.io/badge/GitHub%20-191717.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/486290308359913472)](https://discord.com/users/486290308359913472)
+<div align="center">
+<a href="https://discord.gg/global" title="Discord Profile"><img src="https://lanyard-profile-readme.vercel.app/api/486290308359913472/?theme=light&bg=809ecf&animated=true&hideDiscrim=true&borderRadius=30px"></a>
+</d
